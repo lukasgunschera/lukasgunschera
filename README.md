@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi, I am Lukas 👋
+
+- 👨‍🎓 I am a PhD candidate in Social Policy at the University of Oxford.
+
+- 👨‍🔬 My research examines the relationship between social media use and mental health, and how this relationship depends on individual differences in cognition. I examine this question both cross-sectionally and longitudinally using computational approaches.
+
+- 🔑 Transparency and reproducibility are core values guiding my research. I aim to make my code accessible to the public.
+
+- 💻 You can find more info on my work on my website: https://lukasgunschera.com/.
+
+- 📫 Feel free to reach out via [email](mailto:lg702@cam.ac.uk), BlueSky](https://bsky.app/profile/lukasgunschera.bsky.social), or [Twitter](https://twitter.com/lukasgunschera).
 
 <!--
 **lukasgunschera/lukasgunschera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
