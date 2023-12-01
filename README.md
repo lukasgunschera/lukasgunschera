@@ -6,7 +6,7 @@
 
 - 🔑 Transparency and reproducibility are core values guiding my research. I aim to make all code accessible to the public.
 
-- 💻 You can find more info on my work on my website: https://lukasgunschera.com/.
+- 💻 You can find more info on my work on [my website](https://lukasgunschera.com/) or the website of [my research group](https://www.orben.group/). 
 
 - 📫 Feel free to reach out via [email](mailto:lg702@cam.ac.uk), [BlueSky](https://bsky.app/profile/lukasgunschera.bsky.social), or [Twitter](https://twitter.com/lukasgunschera).
 
