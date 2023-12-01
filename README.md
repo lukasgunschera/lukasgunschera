@@ -8,7 +8,7 @@
 
 - 💻 You can find more info on my work on my website: https://lukasgunschera.com/.
 
-- 📫 Feel free to reach out via [email](mailto:lg702@cam.ac.uk), BlueSky](https://bsky.app/profile/lukasgunschera.bsky.social), or [Twitter](https://twitter.com/lukasgunschera).
+- 📫 Feel free to reach out via [email](mailto:lg702@cam.ac.uk), [BlueSky](https://bsky.app/profile/lukasgunschera.bsky.social), or [Twitter](https://twitter.com/lukasgunschera).
 
 <!--
 **lukasgunschera/lukasgunschera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
