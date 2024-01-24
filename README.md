@@ -1,14 +1,14 @@
 ### Hi, I am Lukas 👋
 
-- 👨‍🎓 I am a PhD student at the [MRC Cognition and Brain Sciences Unit](https://www.mrc-cbu.cam.ac.uk/) at the University of Cambridge.
+👨‍🎓 I am a PhD student at the [MRC Cognition and Brain Sciences Unit](https://www.mrc-cbu.cam.ac.uk/) at the University of Cambridge.
   
-- 👨‍🔬 My research examines cognitive markers of susceptibility and resilience for the relationship between social media use and mental health. Are differences in information processing related to the outcomes social media use has on well-being? I examine this question in a combination of computational, longitudinal, and cross-sectional approaches.
+👨‍🔬 My research examines cognitive markers of susceptibility and resilience for the relationship between social media use and mental health. Are differences in information processing related to the outcomes social media use has on well-being? I examine this question in a combination of computational, longitudinal, and cross-sectional approaches.
 
-- 🔑 Transparency and reproducibility are core values guiding my research. I aim to make all code accessible to the public.
+🔑 Transparency and reproducibility are core values guiding my research. I aim to make all code accessible to the public.
 
-- 💻 You can find more info on my work on [my website](https://lukasgunschera.com/) or the website of [my research group](https://www.orben.group/). 
+💻 You can find more info on my work on [my website](https://lukasgunschera.com/) or the website of [my research group](https://www.orben.group/). 
 
-- 📫 Feel free to reach out via [email](mailto:lg702@cam.ac.uk), [BlueSky](https://bsky.app/profile/lukasgunschera.bsky.social), or [Twitter](https://twitter.com/lukasgunschera).
+📫 Feel free to reach out via [email](mailto:lg702@cam.ac.uk), [BlueSky](https://bsky.app/profile/lukasgunschera.bsky.social), or [Twitter](https://twitter.com/lukasgunschera).
 
 <!--
 **lukasgunschera/lukasgunschera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
