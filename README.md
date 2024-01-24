@@ -2,7 +2,7 @@
 
 - 👨‍🎓 I am a PhD student at the [MRC Cognition and Brain Sciences Unit](https://www.mrc-cbu.cam.ac.uk/) at the University of Cambridge.
   
-- 👨‍🔬 My research examines the relationship between social media use and mental health, and how this relationship depends on individual differences in cognition. I examine this question both cross-sectionally and longitudinally using computational approaches.
+- 👨‍🔬 My research examines cognitive markers of susceptibility and resilience for the relationship between social media use and mental health. Are differences in information processing related to the outcomes social media use has on well-being? I examine this question in a combination of computational, longitudinal, and cross-sectional approaches.
 
 - 🔑 Transparency and reproducibility are core values guiding my research. I aim to make all code accessible to the public.
 
